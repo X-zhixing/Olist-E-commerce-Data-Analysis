@@ -91,7 +91,7 @@ erDiagram
 
 ### 4.2 高度集中的结构
 
-![品类 Top 10](assets/category_top10.png)
+![品类 Top 10](images/category_top10.png)
 
 - **71 个在售品类**，前 5 个贡献 **40.4%** GMV：health_beauty(9.4%)、watches_gifts(8.9%)、bed_bath_table(7.8%)、sports_leisure(7.3%)、computers_accessories(6.8%)
 - 地域更极端：**SP 州占 37.4%**，RJ 13.3%、MG 11.8%，前 5 州合计 **73.2%**
@@ -110,7 +110,7 @@ erDiagram
 
 ### 4.4 延迟 = 差评
 
-![延迟与差评](assets/late_impact.png)
+![延迟与差评](images/late_impact.png)
 
 - 平均配送时长 **12.1 天**，**8.11%**（7,824 单）超出承诺时效
 - 在有评价的订单里，延迟件差评率 **54.05%**（7,661 单），准时件 **9.22%**（88,171 单），**5.9 倍**差距；平均评分 2.57 vs 4.29
