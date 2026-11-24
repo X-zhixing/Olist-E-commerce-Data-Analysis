@@ -230,7 +230,7 @@ erDiagram
 ```
 .
 ├── README.md
-├── assets/                      # README 配图
+├── images/                      # README 配图
 ├── sql/
 │   ├── 01_create_tables.sql     # 建库建表、索引、数据导入
 │   ├── 02_analysis.sql          # GMV/品类/地域/支付/RFM/归因/区域矩阵
