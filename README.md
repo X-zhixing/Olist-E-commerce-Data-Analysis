@@ -223,7 +223,7 @@ erDiagram
 - 地图：各州延迟率热力 + 优先级着色（P0 红 / P1 橙 / P2 黄 / P3 绿）
 - 明细：延迟率 Top 卖家、跨州链路矩阵
 
-🔗 在线看板：<https://pcdemo.finebi.com/webroot/decision/v5/design/report/929aea2684f54d539ac0050ed0b2cfd/view>
+🔗 在线看板：[<https://pcdemo.finebi.com/webroot/decision/v5/design/report/929aea2684f54d539ac0050ed0b2cfd/view](https://demo.fanruan.com/webroot/decision/link/doAp)>
 
 ## 8. 项目结构
 
