@@ -4,7 +4,7 @@
 
 一次完整的电商经营分析：从 MySQL 建表导入、SQL 指标体系搭建，到 Python 探索性分析、可视化看板，最终落到一份可执行的治理建议。
 
-![GMV 趋势](assets/gmv_trend.png)
+![GMV 趋势](images/gmv_trend.png)
 
 ---
 
